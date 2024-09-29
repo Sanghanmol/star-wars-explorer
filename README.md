@@ -40,5 +40,7 @@ To get a local copy up and running follow these simple steps.
    
 To log into the application, use the following credentials:
 
-Username: admin
-Password: password
+- **Username**: admin, **Password**: password
+
+### Contributins
+Contributions are welcome! Please read the CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
