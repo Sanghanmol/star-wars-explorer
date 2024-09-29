@@ -36,3 +36,9 @@ To get a local copy up and running follow these simple steps.
 ### Usage
 1. Start the development server: npm run dev
 2. Open your web browser and navigate to http://localhost:5175 to view the application.
+3. Authentication Credentials
+   
+To log into the application, use the following credentials:
+
+Username: admin
+Password: password
